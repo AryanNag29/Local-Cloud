@@ -16,11 +16,6 @@ Please check the other development branches for updates.
 - New fresh UI, see images below
 - Configuration file for authentication - don't expose all your files to everyone
 
-## Donation
-
-Support me to keep making this project better :heart:
-
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/rishibidani?country.x=AU&locale.x=en_AU)
 
 ## Table Of Contents
 
